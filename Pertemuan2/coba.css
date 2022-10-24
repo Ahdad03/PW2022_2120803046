@@ -1,0 +1,27 @@
+body { font-family: Arial, Helvetica, sans-serif;}
+
+h1 {text-align: center;
+    color: purple;
+    font-variant: small-caps;}
+
+p { color: blue;
+   line-height: 1.6em;
+font-size: 25px;
+font-weight: bold;
+font-style: oblique;
+text-align: justify;
+text-indent: 30px;
+text-decoration-line: none;
+text-transform: capitalize;
+letter-spacing: normal;
+
+
+/* komentar */
+}
+
+body {
+    background-image: url(raiden-shogun-banner-rerun-1024x-20220303052805.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom ;
+    background: 100px;
+}
